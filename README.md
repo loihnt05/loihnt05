@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=loihnt05&amp;show_icons=true&theme=merko" alt="GitHub Stats"></p>
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
 
-<!--
-**loihnt05/loihnt05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=loihnt05&theme=onedark&column=-1" />
+</p>
 
-Here are some ideas to get you started:
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loihnt05&theme=github-dark-dimmed&custom_title=Superkid%20Activity%20Graph&hide_border=true)](https://github.com/loihnt05/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
