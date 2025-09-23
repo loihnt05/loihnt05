@@ -5,15 +5,12 @@ Hi, I'm Loi, a software engineer from VietNam 🇻🇳.
 
 ## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loihnt05&theme=react&show_icons=true&hide_border=true&count_private=true" alt="loihnt05's Stats" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loihnt05&theme=react&show_icons=true&hide_border=true&count_private=true" alt="loihnt05's Stats" width="527"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loihnt05&theme=react&show_icons=true&hide_border=true&layout=compact" alt="loihnt05's Top Languages" width="400"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=loihnt05&theme=react&hide_border=true" alt="loihnt05's Streak" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loihnt05&theme=react&show_icons=true&hide_border=true&layout=compact" alt="loihnt05's Top Languages" width="600"/>
 </p>
 
 ## 🔥 Challenge 
