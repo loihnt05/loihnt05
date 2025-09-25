@@ -10,7 +10,7 @@ Hi, I'm Loi, a software engineer from VietNam 🇻🇳.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loihnt05&theme=react&hide_border=true" alt="loihnt05's Streak" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loihnt05&theme=react&hide_border=true" alt="loihnt05's Streak" width="500"/>
 </p>
 
 ## 🔥 Challenge 
