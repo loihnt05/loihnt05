@@ -26,15 +26,15 @@ Hi, I'm Loi, a software engineer from VietNam 🇻🇳.
 </a>
 
 ## ❤️ Made By
-
-<a href="https://github.com/loihnt05" alt="https://github.com/loihnt05">
+  <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<p align="center">
+  <a href="https://github.com/loihnt05" alt="https://github.com/loihnt05">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=superkid&color=000000">
 </a>
 
 <a href="https://github.com/loihnt05/loihnt05/blob/main/LICENSE" alt="https://github.com/loihnt05/loihnt05/blob/main/LICENSE">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000">
 </a>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+
+
